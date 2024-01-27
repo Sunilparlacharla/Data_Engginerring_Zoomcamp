@@ -1,2 +1,3 @@
 # Data_Engginerring_Zoomcamp
-Used practive the Zoomcamp Datatalksclub
+
+Used practice the Zoomcamp Datatalksclub
